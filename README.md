@@ -1,4 +1,4 @@
-# Swipeline AI Tweet Analysis App
+# AI Tweet Analysis App
 
 This application analyzes tweets using AI and stores the results in a spreadsheet. It provides sentiment analysis, content summarization, and other tweet metrics.
 
